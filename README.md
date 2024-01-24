@@ -30,7 +30,7 @@ Die folgende Tabelle soll eine Übersicht über die Implementierung dieser in GE
 
 ## Implementation der Witwenrente
 
-In folgendem Repository[GETTSIM_Witwenrente](https://github.com/nafetsk/gettsim_witwenrente) befindet sich eine geforkte GETTSIM Version mit einem ersten Aufschlag zur Implementation der Witwenrente. Details zur Implementierung finden sich in dieser [Datei](https://github.com/nafetsk/gettsim_witwenrente/blob/main/src/_gettsim/transfers/rente_wegen_todes.py).
+In folgendem Repository [GETTSIM_Witwenrente](https://github.com/nafetsk/gettsim_witwenrente) befindet sich eine geforkte GETTSIM Version mit einem ersten Aufschlag zur Implementation der Witwenrente. Details zur Implementierung finden sich in dieser [Datei](https://github.com/nafetsk/gettsim_witwenrente/blob/main/src/_gettsim/transfers/rente_wegen_todes.py).
 
 
 ## Datenaufbereitung SOEP -> GETTSIM

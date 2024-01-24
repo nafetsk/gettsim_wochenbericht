@@ -1,0 +1,3 @@
+[submodule "gettsim_witwenrente"]
+	path = gettsim_witwenrente
+	url = https://github.com/nafetsk/gettsim_witwenrente.git
