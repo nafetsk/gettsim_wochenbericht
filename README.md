@@ -1,10 +1,15 @@
 # gettsim_wochenbericht
-Dieses Repository soll eine Übersicht über die Module und Tools in GETTSIM schaffen, um zu evaluieren inwiefern eine Analyse zur Verteilungswirkung der Mütterrente mit GETTSIM anstelle von STSM möglich wäre. Zum Vergleich werden Wochenberichte aus [2014](/literature/DIW_Wochenbericht%2014-20-1.pdf) und[2018](/literature/DIW_Wochenbericht18-28-1.pdf) herangezogen.
+
+## Motivation
+Dieses Repository soll eine Übersicht über die Module und Tools in [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim) schaffen, um zu evaluieren inwiefern eine Analyse zur Verteilungswirkung der Mütterrente mit GETTSIM anstelle von STSM möglich wäre. Zum Vergleich werden Wochenberichte aus [2014](/literature/DIW_Wochenbericht%2014-20-1.pdf) und[2018](/literature/DIW_Wochenbericht18-28-1.pdf) herangezogen.
 
 
 ## Vergleich 
 
-
+>Dazu enthält das STSM komplexe Simulationsmodule zu Einkommensteuer
+>und Solidaritätszuschlag, zu den Sozialversicherungsbeiträgen
+>sowie zu den wesentlichen Sozialtransfers (Arbeitslosengeld I,
+>Wohngeld, Elterngeld, Kindergeld, Kinderzuschlag, Grundsicherung).
 
 | STSM                      | GETTSIM                                                                                                                                                                                                                                                                                                                   |     |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
